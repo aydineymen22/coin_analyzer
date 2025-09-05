@@ -39,7 +39,7 @@ High–Low Price Difference Over Time
 
 📝 Example Output
 Console Stats
-
+----------------------
 Count        90
 
 Min       60251.0
@@ -59,6 +59,7 @@ Skew         0.25
 Kurtosis    -0.89
 dtype: float64
 
+--------------------
 
 Charts
 
