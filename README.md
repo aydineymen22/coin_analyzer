@@ -39,16 +39,26 @@ High–Low Price Difference Over Time
 
 📝 Example Output
 Console Stats
+
 Count        90
+
 Min       60251.0
+
 Max       71150.0
+
 Mean      65521.4
+
 Median    65440.5
+
 Std        2910.2
+
 Var     8461453.1
+
 Skew         0.25
+
 Kurtosis    -0.89
 dtype: float64
+
 
 Charts
 
